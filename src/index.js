@@ -30,6 +30,12 @@ registerMicroApps([
     container: '#subapp-viewport',
     activeRule: '/subapp2',
   },
+  {
+    name: 'vue3-sub-app',
+    entry: '//localhost:7300',
+    container: '#subapp-viewport',
+    activeRule: '/vue3',
+  },
 ]);
 
 start();

@@ -29,6 +29,9 @@ function App() {
                 <li>
                   <Link to="/subapp2">Sub App 2</Link>
                 </li>
+                <li>
+                  <Link to="/vue3">Vue3 Sub App</Link>
+                </li>
               </ul>
             </nav>
             <div id="subapp-viewport"></div>
